@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](![image](https://user-images.githubusercontent.com/117210849/229077124-a1128eaf-1d6e-4323-be58-fe81b303de37.png))
-<h1 align="center">Hi 👋, I'm Surinder Kumar`</h1>
+<h1 align="center">Hi <img src="https://media1.tenor.com/images/936935b652e03ecbb6b752c77488b71b/tenor.gif?itemid=13963687" />, I'm Surinder Kumar`</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
