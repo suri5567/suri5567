@@ -1,4 +1,4 @@
-![logo](https://github.com/suri5567/suri5567/blob/main/event_cover_web_dev_banner_for_ihjoz.jpg)
+<!-- ![logo](https://github.com/suri5567/suri5567/blob/main/event_cover_web_dev_banner_for_ihjoz.jpg) -->
 <h1 align="center">Hi, I'm Surinder Kumar`</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
