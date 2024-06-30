@@ -1,5 +1,5 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)<h1 align="center">Hi 👋, I'm Surinder kumar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">MERN Fullstack developer At Aican Automate Pvt Ltd</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suri5567&label=Profile%20views&color=0e75b6&style=flat" alt="suri5567" /> </p>
@@ -7,9 +7,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suri5567" alt="suri5567" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **HTML, CSS, JS,REACT,REDUX,DSA.**
+- 🌱 I’m currently working with **HTML, CSS, JS ,REACT, Redux, Node, Express, MongoDB, Git and Github.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about**HTML, CSS, JS ,REACT, Redux, Node, Express, MongoDB, Git and Github.**
 
 - 📫 How to reach me **kumarsonuy6@gmail.com**
 
